@@ -90,7 +90,7 @@ public class InventoryEventListener implements Listener {
                             e
                     );
                 }
-            }kono
+            }
 
             event.setCancelled(true);
         }
