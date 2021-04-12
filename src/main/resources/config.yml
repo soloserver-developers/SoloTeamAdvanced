@@ -1,0 +1,8 @@
+database:
+  type: MARIADB # MYSQL or MARIADB
+  address: localhost
+  port: 3306
+  database: soloservercore
+  username: soloservercore
+  password: SoLoSeRvERcOrE
+  tablePrefix: ssc3_

@@ -1,0 +1,12 @@
+name: SoloTeamAdvanced
+version: @version@
+main: page.nafuchoco.soloteamadvanced.SoloTeamAdvanced
+api-version: 1.16
+depend: [ SoloServerCore ]
+authors: [ NAFU_at ]
+description: An extension plugin that enhances the team functions of SoloServerCore3.
+website: https://toybox.nafuchoco.page/
+
+commands:
+  tspawn:
+    description: Teleport to the player's spawn point.
