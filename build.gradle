@@ -36,8 +36,7 @@ repositories {
 
 dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT'
-    compileOnly 'page.nafuchoco:SoloServerCore:4.0.0'
-    // compileOnly 'com.github.soloserver-developers:SoloServerCore3:3.6.5'
+    compileOnly 'com.github.soloserver-developers:SoloServerCore3:4.0.0'
 
     compileOnly 'org.projectlombok:lombok:1.18.20'
     annotationProcessor 'org.projectlombok:lombok:1.18.20'
